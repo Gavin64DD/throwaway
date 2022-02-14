@@ -6,7 +6,8 @@ namespace PE10
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Goodbye text );");
+            int value;
+            value = 3;
         }
     }
 }
