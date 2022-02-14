@@ -6,8 +6,8 @@ namespace PE10
     {
         static void Main(string[] args)
         {
-            int value;
-            value = 3;
+            int value = 3;
+            value += 10;
         }
     }
 }
